@@ -13,7 +13,7 @@ namespace MscButtonBox
 	public class MscButtonBox : Mod
 	{
 		public override string ID => "MscControlsMod";
-		public override string Name => "MSC Extra Control Mod";
+		public override string Name => "MSC Additional Controls";
 		public override string Author => "Juppi";
 		public override string Version => "0.0.1";
 		public override bool UseAssetsFolder => false;
